@@ -8,11 +8,11 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 > This mount and associated components are not certified or designed for installation in a box with AC mains (utility) power.
 
 ## Bill of Materials
-- [Physical switch](https://www.amazon.com/gp/product/B086L2GPGX)
+-  A 3.3V DC power source
 - PH 2.0 female connector to provide 3.3V to the Waveshare device via the battery connection
-- A 3.3V DC power source
 - [8mm x 3mm neodymium magnets (x4)](https://www.amazon.com/dp/B0CCXH6W5Q)
 - 3oz filament (PETG recommended)
+- [Physical switch](https://www.amazon.com/gp/product/B086L2GPGX)
 - [3.3V relay module](https://www.amazon.com/gp/product/B09SZ71K4L) to control a device with the physical switch
 
 ## Printing
