@@ -4,6 +4,8 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 
 ## Purpose
 - This mount allows for a [Waveshare ESP32-S3-Touch-LCD-4.3](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-4.3) to be installed in a single gang electrical box.
+> [!WARNING]
+> This mount and associated components are not certified or designed for installation in a box with AC mains (utility) power.
 
 ## Bill of Materials
 - [Physical switch](https://www.amazon.com/gp/product/B086L2GPGX)
