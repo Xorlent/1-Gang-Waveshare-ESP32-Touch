@@ -1,4 +1,4 @@
-c# 1-Gang-Waveshare-ESP32-Touch
+#1-Gang-Waveshare-ESP32-Touch
 Single Gang Waveshare ESP32 Touch 4.3" Mount
 ![Waveshare 4.3" Mount Model](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/Waveshare43-Model.jpg)
 ## Purpose
