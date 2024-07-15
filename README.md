@@ -1,4 +1,4 @@
-# 1-Gang-Waveshare-ESP32-Touch
+c# 1-Gang-Waveshare-ESP32-Touch
 Single Gang Waveshare ESP32 Touch 4.3" Mount
 ![Waveshare 4.3" Mount Model](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/Waveshare43-Model.jpg)
 ## Purpose
@@ -10,6 +10,7 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 - A 3.3V DC power source
 - [8mm x 3mm neodymium magnets (x4)](https://www.amazon.com/dp/B0CCXH6W5Q)
 - 3oz filament (PETG recommended)
+- [3.3V relay module](https://www.amazon.com/gp/product/B09SZ71K4L) to control devices with the physical switch
 
 ## Printing
 - 0.20mm layer height
