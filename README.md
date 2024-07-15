@@ -18,6 +18,9 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 - Pause the print when the magnet column walls are finished but before the top chamfer (should be layer 70)
   - Once paused, install the magnets in the correct orientation so the bottom bezel will fasten properly and resume the print
 
-## Using
+## Using the Mount
 - The perforated rectangle at the top of the mount facilitates a cutout for programming without removing the device from the mount
 - Once assembled, to remove the top bezel, slide a utility knife under the top lip of the bezel and carefully pry to push the case shell outwards
+
+## Using the Waveshare Device
+- See https://github.com/Westcott1/Waveshare-ESP32-S3-Touch-LCD-4.3-and-Arduino
