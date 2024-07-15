@@ -25,6 +25,7 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 ## Using the Mount
 - The perforated rectangle at the top of the mount facilitates a cutout for programming without removing the device from the mount
 - Once assembled, to remove the top bezel, slide a utility knife under the top lip of the bezel and carefully pry to push the case shell outwards
+- The physical switch should be glued in place, but if you want more security, the 1.5mm holes can be used to add retaining pins
 
 ## Using the Waveshare Device
 - See https://github.com/Westcott1/Waveshare-ESP32-S3-Touch-LCD-4.3-and-Arduino
