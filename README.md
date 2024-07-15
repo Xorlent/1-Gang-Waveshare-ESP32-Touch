@@ -10,3 +10,14 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 - A 3.3V DC power source
 - [8mm x 3mm neodymium magnets (x4)](https://www.amazon.com/dp/B0CCXH6W5Q)
 - 3oz filament (PETG recommended)
+
+## Printing
+- 0.20mm layer height
+- All componets should be printed with tabs facing up
+- Supports must be used to print the back box
+- Pause the print when the magnet column walls are finished but before the top chamfer (should be layer 70)
+  - Once paused, install the magnets in the correct orientation so the bottom bezel will fasten properly and resume the print
+
+## Using
+- The perforated rectangle at the top of the mount facilitates a cutout for programming without removing the device from the mount
+- Once assembled, to remove the top bezel, slide a utility knife under the top lip of the bezel and carefully pry to push the case shell outwards
