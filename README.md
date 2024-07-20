@@ -39,7 +39,7 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
   2. Symmetrical provides for a balanced look, with equal frame widths
   ![Symmetrical Top Bezel](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/TopBezel-Symmetrical.jpg)
 > [!NOTE]
-> The 3.3v battery header connector polarity is reversed from many PH 2.0 connectors.  The stenciled polarity on the Waveshare board is CORRECT.  Use this as your guide.
+> The 3.3v battery header connector polarity is reversed from many PH 2.0 connectors.  The stenciled polarity on the Waveshare PCB is CORRECT.  Use this as your guide.
 
 ## Using the Waveshare Device
 - See https://github.com/Westcott1/Waveshare-ESP32-S3-Touch-LCD-4.3-and-Arduino
