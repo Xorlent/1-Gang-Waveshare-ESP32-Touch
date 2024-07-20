@@ -19,7 +19,8 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 ## Printing
 - 0.20mm layer height
 - All componets should be printed with tabs facing up
-- Supports are needed only to print the back box and top bezel
+- Build plate supports are needed only to print the back box and top bezel
+  - If printing the loaded back box, set the overhang threshold to 50 degrees
 - Pause the print when the magnet column walls are finished but before the top chamfer (should be somewhere around layer 40 for the mount and 65 for the bottom bezel)
   - Once paused, install the magnets, ensuring correct polarity so the bottom bezel will fasten properly, then resume the print
 
