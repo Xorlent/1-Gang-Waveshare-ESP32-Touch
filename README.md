@@ -1,6 +1,6 @@
 # 1-Gang-Waveshare-ESP32-Touch
 Single Gang Waveshare ESP32 Touch 4.3" Mount
-![Waveshare 4.3" Mount Model](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/Waveshare43-Model.jpg)
+![Waveshare 4.3" Mount Rendering](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/WaveshareMount-Rendering.jpg)
 
 ## Purpose
 - This mount allows for a [Waveshare ESP32-S3-Touch-LCD-4.3](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-4.3) to be installed in a single gang electrical box.
@@ -29,10 +29,12 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 - The physical switch should nicely press-fit in place, but if you want more security, use glue or use the 1.5mm holes to add retaining pins
 - There are two versions of the Back Box:
   1. Empty provides a single open cavity behind the mount
-  2. Loaded creates pockets and snap-fit provisions for a relay module and power supply (use with the PCB standoffs)
+  2. Loaded creates pockets and snap-fit provisions for a relay module and power supply (use with Back Box - Loaded PCB Standoffs.step)
+  ![Loaded Back Box](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/BackBox-Loaded.jpg)
 - There are two versions of the Top Bezel:
-  1. Symmetrical provides for a balanced look, with equal frame widths
-  2. Exact increases the width of the right-hand frame to match the active display area
+  1. Exact increases the width of the right-hand frame to match the active display area (see image at the top of this README)
+  2. Symmetrical provides for a balanced look, with equal frame widths
+  ![Symmetrical Top Bezel](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/TopBezel-Symmetrical.jpg)
 - To install the PCB standoffs, insert the standoff at a 90 degree offset to the back box chamfered recess.  Once inserted, turn 90 degrees so chamfers align to lock in place.
 > [!NOTE]
 > The 3.3v battery header connector polarity is reversed from many PH 2.0 connectors.  The stenciled polarity on the Waveshare board is CORRECT.  Use this as your guide.
