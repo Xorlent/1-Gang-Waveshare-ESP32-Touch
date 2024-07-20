@@ -25,6 +25,7 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 
 ## Using the Mount
 - The perforated rectangle at the top of the mount facilitates a cutout for programming without removing the device from the mount
+- The BOOT and RESET switches are accessible via holes in the left side of the mount
 - Once assembled, to remove the top bezel, slide a utility knife under the top lip of the bezel and carefully pry to push the case shell outwards
 - The physical switch should nicely press-fit in place, but if you want more security, use glue or use the 1.5mm holes to add retaining pins
 - There are two versions of the Back Box:
