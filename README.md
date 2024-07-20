@@ -8,24 +8,30 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 > This mount and associated components are not certified or designed for installation in a box with AC mains (utility) power.
 
 ## Bill of Materials
--  A 3.3V DC power source
+- A 3.3V DC power source
 - PH 2.0 female connector to provide 3.3V to the Waveshare device via the battery connection
 - [8mm x 3mm neodymium magnets (x4)](https://www.amazon.com/dp/B0CCXH6W5Q)
 - 3oz filament (PETG recommended)
 - [Physical switch](https://www.amazon.com/gp/product/B086L2GPGX)
-- [3.3V relay module](https://www.amazon.com/gp/product/B09SZ71K4L) to control a device with the physical switch
+- Optional [3.3V relay module](https://www.amazon.com/gp/product/B09SZ71K4L) to control a device with the physical switch (use with loaded back box)
+- Optional [SHT41 Temp + Humidity sensor](https://www.amazon.com/dp/B0C61LLH4T)
 
 ## Printing
 - 0.20mm layer height
 - All componets should be printed with tabs facing up
-- Supports must be used to print the back box
+- Supports are needed only to print the back box
 - Pause the print when the magnet column walls are finished but before the top chamfer (should be around layer 39)
-  - Once paused, install the magnets in the correct orientation so the bottom bezel will fasten properly, then resume the print
+  - Once paused, install the magnets, ensuring correct polarity so the bottom bezel will fasten properly, then resume the print
 
 ## Using the Mount
 - The perforated rectangle at the top of the mount facilitates a cutout for programming without removing the device from the mount
 - Once assembled, to remove the top bezel, slide a utility knife under the top lip of the bezel and carefully pry to push the case shell outwards
-- The physical switch should be press-fit or glued in place, but if you want more security, the 1.5mm holes can be used to add retaining pins
+- The physical switch should nicely press-fit in place, but if you want more security, use glue or use the 1.5mm holes to add retaining pins
+- There are two versions of the Back Box:
+  1. 
+- There are two versions of the Top Bezel:
+  1. Symmetrical provides for a balanced look, with equal frame widths
+  2. Exact increases the width of the right-hand frame to match the active display area
 
 ## Using the Waveshare Device
 - See https://github.com/Westcott1/Waveshare-ESP32-S3-Touch-LCD-4.3-and-Arduino
