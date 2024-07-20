@@ -28,10 +28,12 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 - Once assembled, to remove the top bezel, slide a utility knife under the top lip of the bezel and carefully pry to push the case shell outwards
 - The physical switch should nicely press-fit in place, but if you want more security, use glue or use the 1.5mm holes to add retaining pins
 - There are two versions of the Back Box:
-  1. 
+  1. Empty provides a single open cavity behind the mount
+  2. Loaded creates pockets and snap-fit provisions for a relay module and power supply (use with the PCB standoffs)
 - There are two versions of the Top Bezel:
   1. Symmetrical provides for a balanced look, with equal frame widths
   2. Exact increases the width of the right-hand frame to match the active display area
+- To install the PCB standoffs, insert the standoff at a 90 degree offset to the back box chamfered recess.  Once inserted, turn 90 degrees so chamfers align to lock in place.
 
 ## Using the Waveshare Device
 - See https://github.com/Westcott1/Waveshare-ESP32-S3-Touch-LCD-4.3-and-Arduino
