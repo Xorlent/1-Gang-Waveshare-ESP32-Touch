@@ -11,7 +11,7 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 - A 3.3V DC power source (I recommend a 3.3V 1A Isolated Step-down DC Module)
 - PH 2.0 female connector to provide 3.3V to the Waveshare device via the battery connection (see NOTE at the bottom of this README)
 - [8mm x 3mm neodymium magnets (x4)](https://www.amazon.com/dp/B0CCXH6W5Q)
-- 3.1 oz of filament (PETG recommended)
+- 3.3 oz of filament (PETG recommended)
 - [Physical switch](https://www.amazon.com/gp/product/B086L2GPGX)
 - Optional [3.3V relay module](https://www.amazon.com/gp/product/B09SZ71K4L) to control a device with the physical switch (use with loaded back box)
 - Optional [SHT41 Temp + Humidity sensor](https://www.amazon.com/dp/B0C61LLH4T)
