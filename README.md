@@ -19,7 +19,7 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 ## Printing
 - 0.20mm layer height
 - All componets should be printed with tabs facing up
-- Supports are needed only to print the back box
+- Supports are needed only to print the back box and top bezel
 - Pause the print when the magnet column walls are finished but before the top chamfer (should be around layer 39)
   - Once paused, install the magnets, ensuring correct polarity so the bottom bezel will fasten properly, then resume the print
 
