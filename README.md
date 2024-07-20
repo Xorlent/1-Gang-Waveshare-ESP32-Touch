@@ -11,7 +11,7 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 - A 3.3V DC power source
 - PH 2.0 female connector to provide 3.3V to the Waveshare device via the battery connection
 - [8mm x 3mm neodymium magnets (x4)](https://www.amazon.com/dp/B0CCXH6W5Q)
-- 3oz filament (PETG recommended)
+- 3.1 oz of filament (PETG recommended)
 - [Physical switch](https://www.amazon.com/gp/product/B086L2GPGX)
 - Optional [3.3V relay module](https://www.amazon.com/gp/product/B09SZ71K4L) to control a device with the physical switch (use with loaded back box)
 - Optional [SHT41 Temp + Humidity sensor](https://www.amazon.com/dp/B0C61LLH4T)
@@ -34,6 +34,8 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
   1. Symmetrical provides for a balanced look, with equal frame widths
   2. Exact increases the width of the right-hand frame to match the active display area
 - To install the PCB standoffs, insert the standoff at a 90 degree offset to the back box chamfered recess.  Once inserted, turn 90 degrees so chamfers align to lock in place.
+> [!NOTE]
+> The 3.3v battery header connector polarity is reversed from many PH 2.0 connectors.  The stenciled polarity on the Waveshare board is CORRECT.  Use this as your guide.
 
 ## Using the Waveshare Device
 - See https://github.com/Westcott1/Waveshare-ESP32-S3-Touch-LCD-4.3-and-Arduino
