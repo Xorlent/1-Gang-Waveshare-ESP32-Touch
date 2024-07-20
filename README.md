@@ -35,8 +35,8 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
      - To install the PCB standoffs, insert the standoff at a 90 degree offset to the back box chamfered recess.  Once inserted, turn 90 degrees so chamfers align to lock in place.
   ![Loaded Back Box](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/BackBox-Loaded.jpg)
 - There are two versions of the Top Bezel:
-  1. Exact increases the width of the right-hand frame to match the active display area (see image at the top of this README)
-  2. Symmetrical provides for a balanced look, with equal frame widths
+  1. Exact - increases the width of the right-hand frame to match the active display area (see image at the top of this README)
+  2. Symmetrical - provides for a balanced look, with equal frame widths
   ![Symmetrical Top Bezel](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/TopBezel-Symmetrical.jpg)
 > [!NOTE]
 > The 3.3v battery header connector polarity is reversed from many PH 2.0 connectors.  The stenciled polarity on the Waveshare PCB is CORRECT.  Use this as your guide.
