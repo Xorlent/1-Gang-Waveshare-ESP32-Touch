@@ -1,6 +1,6 @@
 # 1-Gang-Waveshare-ESP32-Touch
 Single Gang Waveshare ESP32 Touch 4.3" Mount
-![Waveshare 4.3" Mount Rendering](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/WaveshareMount-Rendering.jpg)
+![Waveshare 4.3" Mount Rendering](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/Waveshare-Mount.jpg)
 
 ## Purpose
 - This mount allows for a [Waveshare ESP32-S3-Touch-LCD-4.3](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-4.3) to be installed in a single gang wall box.
