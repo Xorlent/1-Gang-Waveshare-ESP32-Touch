@@ -25,7 +25,7 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
   - Once paused, install the magnets, ensuring correct polarity so the bottom bezel will fasten properly, then resume the print
 
 ## Using the Mount
-- The perforated rectangle at the top of the mount facilitates a cutout for programming without removing the device from the mount
+- The perforated rectangle at the top of the mount facilitates a cutout for programming without disassembly or removing the Waveshare device
   - You must install and wire the hidden switch to the positive terminal of your power supply
   - Use this switch to de-power your device prior to connecting a USB C programming wire
 - The BOOT and RESET switches are accessible via holes in the left side of the mount
