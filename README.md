@@ -12,7 +12,7 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 - PH 2.0 female connector to provide 3.3V to the Waveshare device via the battery connection (see NOTE at the bottom of this README)
 - [8mm x 3mm neodymium magnets (x4)](https://www.amazon.com/dp/B0CCXH6W5Q)
 - 3.3 oz of filament (PETG recommended)
-- [Physical switch](https://www.amazon.com/gp/product/B086L2GPGX)
+- [Physical switch](https://www.amazon.com/gp/product/B086L2GPGX) (x2 if you intend to program in-place)
 - Optional [3.3V relay module](https://www.amazon.com/gp/product/B09SZ71K4L) to control a device with the physical switch (use with loaded back box)
 - Optional [I2C SHT41 Temp + Humidity sensor](https://www.amazon.com/dp/B0C61LLH4T)
 
@@ -26,6 +26,8 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 
 ## Using the Mount
 - The perforated rectangle at the top of the mount facilitates a cutout for programming without removing the device from the mount
+  - You must install and wire the hidden switch to the positive terminal of your power supply
+  - Use this switch to de-power your device prior to connecting a USB C programming wire
 - The BOOT and RESET switches are accessible via holes in the left side of the mount
 - Once assembled, to remove the top bezel, slide a utility knife under the top lip of the bezel and carefully pry to push the case shell outwards
 - The physical switch should nicely press-fit in place, but if you want more security, use glue or use the 1.5mm holes to add retaining pins
