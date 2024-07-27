@@ -34,7 +34,7 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 - There are two versions of the Back Box:
   1. Empty provides a single open cavity behind the mount
   2. Loaded creates pockets and snap-fit provisions for a relay module and power supply (use with Back Box - Loaded PCB Standoffs.step)
-     - To install the back box PCB standoffs, insert so the chamfers are a 90 degree offset to each other, then turn 90 degrees so chamfers align to lock in place.
+     - To install the back box power supply PCB standoffs, insert so the chamfers are a 90 degree offset to each other, then turn 90 degrees so chamfers align to lock in place.
   ![Loaded Back Box](https://github.com/Xorlent/1-Gang-Waveshare-ESP32-Touch/blob/main/Images/BackBox-Loaded.jpg)
 - There are two versions of the Top Bezel:
   1. Exact - increases the width of the right-hand frame to match the active display area (see image at the top of this README)
