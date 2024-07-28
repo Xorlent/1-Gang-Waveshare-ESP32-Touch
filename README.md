@@ -47,4 +47,4 @@ Single Gang Waveshare ESP32 Touch 4.3" Mount
 - See https://github.com/Westcott1/Waveshare-ESP32-S3-Touch-LCD-4.3-and-Arduino  
 
 ## Editing the Model
-- [Link to OnShape Model](https://cad.onshape.com/documents/3b123274614f3c78b895b05a/w/b3004bfeec5f0d6871b879db/e/d03b68fccefe118e7b07eb04?renderMode=0&uiState=66a3a7fd7ebf7a189e114820)
+- [Link to OnShape Model](https://cad.onshape.com/documents/3b123274614f3c78b895b05a/w/b3004bfeec5f0d6871b879db/e/d03b68fccefe118e7b07eb04?renderMode=0&uiState=66a6be7423fdcb087bda0a28)
